@@ -26,6 +26,35 @@
         ' Shift bits use >> to shift right or << to shift left
         Console.WriteLine(12 << 3) ' return 96
         Console.WriteLine(12 >> 3) ' return 1
+
+        ' Comparing Operators
+        '   It return Boolean type (True or False)
+        ' = (Equal)
+        Console.WriteLine("= (Equal)")
+        Console.WriteLine(23 = 33)
+        Console.WriteLine(1 = 1)
+        Console.WriteLine("123" = "123") ' compare String
+        ' <> (Not Equal)
+        Console.WriteLine("<> (Not Equal)")
+        Console.WriteLine(23 <> 33)
+        Console.WriteLine(1 <> 1)
+        Console.WriteLine("Hello" <> "") ' If Value isn't empty String
+        ' > (Greater than)
+        Console.WriteLine("> (Greater than)")
+        Console.WriteLine(3 > 5)
+        Console.WriteLine("124" > "123")
+        ' < (Less than)
+        Console.WriteLine("< (Less than)")
+        Console.WriteLine(3 < 5)
+        Console.WriteLine("124" < "123")
+        ' <= (Less than or Equal to)
+        Console.WriteLine("<= (Less than or Equal to)")
+        Console.WriteLine(3 <= 4)
+        Console.WriteLine(4 <= 4)
+        ' >= (Greater than or Equal to)
+        Console.WriteLine(">= (Greater than or Equal to)")
+        Console.WriteLine(5 >= 3)
+        Console.WriteLine(5 >= 5)
     End Sub
 
 End Module
