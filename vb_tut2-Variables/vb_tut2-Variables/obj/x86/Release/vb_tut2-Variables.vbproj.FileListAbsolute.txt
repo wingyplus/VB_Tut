@@ -1,0 +1,10 @@
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\bin\Release\vb_tut2-Variables.exe
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\bin\Release\vb_tut2-Variables.pdb
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\bin\Release\vb_tut2-Variables.xml
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\obj\x86\Release\vb_tut2_Variables.Resources.resources
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\obj\x86\Release\vb_tut2-Variables.exe
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\obj\x86\Release\vb_tut2-Variables.xml
+C:\Users\wingyplus\Desktop\VB_Tut\vb_tut2-Variables\vb_tut2-Variables\obj\x86\Release\vb_tut2-Variables.pdb
