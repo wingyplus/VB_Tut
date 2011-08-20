@@ -55,6 +55,15 @@
         Console.WriteLine(">= (Greater than or Equal to)")
         Console.WriteLine(5 >= 3)
         Console.WriteLine(5 >= 5)
+
+        ' Concatenation Operators 
+        '   Use for join multiple Strings into single String
+        '   There are two operators is "+" and "&"
+        Dim x As String = "Con" & "caten" & "ation"
+        Dim y As String = "Con" + "caten" + "ation"
+        ' The + operator has a complex set of rules that determine whether to add, concatenate, signal a compiler error, 
+        ' or throw a run-time InvalidCastException exception.
+
     End Sub
 
 End Module
