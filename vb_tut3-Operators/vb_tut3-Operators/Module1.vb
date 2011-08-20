@@ -59,11 +59,24 @@
         ' Concatenation Operators 
         '   Use for join multiple Strings into single String
         '   There are two operators is "+" and "&"
-        Dim x As String = "Con" & "caten" & "ation"
-        Dim y As String = "Con" + "caten" + "ation"
+        Dim stringX As String = "Con" & "caten" & "ation"
+        Dim stringY As String = "Con" + "caten" + "ation"
         ' The + operator has a complex set of rules that determine whether to add, concatenate, signal a compiler error, 
         ' or throw a run-time InvalidCastException exception.
 
+        ' Logic Operators
+        '   And, Or, AndAlso, OrElse, Xor is binary
+        '   Not is unary
+        Console.WriteLine(Not 23 > 4)
+        Console.WriteLine(True And True)
+        Console.WriteLine(True And False)
+        Console.WriteLine(True Or False)
+        Console.WriteLine(False Or False)
+        ' AndAlso and OrElse is short-circuit
+        Console.WriteLine(False AndAlso True) ' False if first expression is False
+        Console.WriteLine(True OrElse False) ' True if first expression is True
+        Console.WriteLine(True Xor True) ' return False if first and second expression is same Boolean Values
+        Console.WriteLine(True Xor False) ' return True
     End Sub
 
 End Module
