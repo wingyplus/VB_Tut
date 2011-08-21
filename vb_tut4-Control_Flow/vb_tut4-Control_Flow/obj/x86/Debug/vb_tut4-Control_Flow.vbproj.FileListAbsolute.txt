@@ -1,0 +1,4 @@
+C:\Users\wingyplus\AppData\Local\Temporary Projects\vb_tut4-Control_Flow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wingyplus\AppData\Local\Temporary Projects\vb_tut4-Control_Flow\obj\x86\Debug\vb_tut4_Control_Flow.Resources.resources
+C:\Users\wingyplus\AppData\Local\Temporary Projects\vb_tut4-Control_Flow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wingyplus\AppData\Local\Temporary Projects\vb_tut4-Control_Flow\obj\x86\Debug\GenerateResource.write.1.tlog
