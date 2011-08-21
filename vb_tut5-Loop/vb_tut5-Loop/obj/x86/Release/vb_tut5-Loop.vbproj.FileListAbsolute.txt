@@ -11,3 +11,6 @@ C:\Users\wingyplus\AppData\Local\Temporary Projects\vb_tut5-Loop\obj\x86\Release
 C:\Users\wingyplus\Desktop\VB_Tut\vb_tut5-Loop\vb_tut5-Loop\obj\x86\Release\vb_tut5-Loop.exe
 C:\Users\wingyplus\Desktop\VB_Tut\vb_tut5-Loop\vb_tut5-Loop\obj\x86\Release\vb_tut5-Loop.xml
 C:\Users\wingyplus\Desktop\VB_Tut\vb_tut5-Loop\vb_tut5-Loop\obj\x86\Release\vb_tut5-Loop.pdb
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut5-Loop\vb_tut5-Loop\obj\x86\Release\vb_tut5-Loop.exe
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut5-Loop\vb_tut5-Loop\obj\x86\Release\vb_tut5-Loop.xml
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut5-Loop\vb_tut5-Loop\obj\x86\Release\vb_tut5-Loop.pdb
