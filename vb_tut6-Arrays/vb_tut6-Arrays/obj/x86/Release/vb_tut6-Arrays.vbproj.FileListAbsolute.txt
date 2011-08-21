@@ -1,0 +1,13 @@
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\bin\Release\vb_tut6-Arrays.exe
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\bin\Release\vb_tut6-Arrays.pdb
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\bin\Release\vb_tut6-Arrays.xml
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\obj\x86\Release\vb_tut6_Arrays.Resources.resources
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\obj\x86\Release\vb_tut6-Arrays.exe
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\obj\x86\Release\vb_tut6-Arrays.xml
+C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut6-Arrays\obj\x86\Release\vb_tut6-Arrays.pdb
+C:\Users\wingrean\documents\visual studio 2010\Projects\vb_tut6-Arrays\vb_tut6-Arrays\obj\x86\Release\vb_tut6-Arrays.exe
+C:\Users\wingrean\documents\visual studio 2010\Projects\vb_tut6-Arrays\vb_tut6-Arrays\obj\x86\Release\vb_tut6-Arrays.xml
+C:\Users\wingrean\documents\visual studio 2010\Projects\vb_tut6-Arrays\vb_tut6-Arrays\obj\x86\Release\vb_tut6-Arrays.pdb
