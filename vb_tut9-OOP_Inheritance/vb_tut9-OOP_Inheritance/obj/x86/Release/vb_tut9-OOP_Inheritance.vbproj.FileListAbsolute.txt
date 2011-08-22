@@ -11,3 +11,10 @@ C:\Users\wingrean\AppData\Local\Temporary Projects\vb_tut9-OOP_Inheritance\obj\x
 C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\obj\x86\Release\vb_tut9-OOP_Inheritance.exe
 C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\obj\x86\Release\vb_tut9-OOP_Inheritance.xml
 C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\obj\x86\Release\vb_tut9-OOP_Inheritance.pdb
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\bin\Release\vb_tut9-OOP_Inheritance.exe
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\bin\Release\vb_tut9-OOP_Inheritance.pdb
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\bin\Release\vb_tut9-OOP_Inheritance.xml
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\obj\x86\Release\vb_tut9_OOP_Inheritance.Resources.resources
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut9-OOP_Inheritance\vb_tut9-OOP_Inheritance\obj\x86\Release\GenerateResource.write.1.tlog

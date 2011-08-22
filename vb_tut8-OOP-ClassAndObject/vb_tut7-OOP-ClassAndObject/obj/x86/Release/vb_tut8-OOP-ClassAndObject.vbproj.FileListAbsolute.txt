@@ -1,0 +1,10 @@
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\bin\Release\vb_tut8-OOP-ClassAndObject.exe
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\bin\Release\vb_tut8-OOP-ClassAndObject.pdb
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\bin\Release\vb_tut8-OOP-ClassAndObject.xml
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\obj\x86\Release\vb_tut8_OOP_ClassAndObject.Resources.resources
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\obj\x86\Release\vb_tut8-OOP-ClassAndObject.exe
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\obj\x86\Release\vb_tut8-OOP-ClassAndObject.xml
+C:\Users\wingrean\Desktop\VB_Tut\vb_tut7-OOP-ClassAndObject\vb_tut7-OOP-ClassAndObject\obj\x86\Release\vb_tut8-OOP-ClassAndObject.pdb
