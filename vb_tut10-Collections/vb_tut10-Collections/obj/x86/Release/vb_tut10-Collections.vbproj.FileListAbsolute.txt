@@ -1,0 +1,10 @@
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\bin\Release\vb_tut10-Collections.exe
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\bin\Release\vb_tut10-Collections.pdb
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\bin\Release\vb_tut10-Collections.xml
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Release\vb_tut10_Collections.Resources.resources
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Release\vb_tut10-Collections.exe
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Release\vb_tut10-Collections.xml
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Release\vb_tut10-Collections.pdb

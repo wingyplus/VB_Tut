@@ -1,0 +1,13 @@
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\bin\Debug\vb_tut10-Collections.exe
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\bin\Debug\vb_tut10-Collections.pdb
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\bin\Debug\vb_tut10-Collections.xml
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Debug\vb_tut10_Collections.Resources.resources
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Debug\vb_tut10-Collections.exe
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Debug\vb_tut10-Collections.xml
+C:\Users\Wingrean\AppData\Local\Temporary Projects\vb_tut10-Collections\obj\x86\Debug\vb_tut10-Collections.pdb
+C:\Users\Wingrean\Desktop\VB_Tut\vb_tut10-Collections\vb_tut10-Collections\obj\x86\Debug\vb_tut10-Collections.exe
+C:\Users\Wingrean\Desktop\VB_Tut\vb_tut10-Collections\vb_tut10-Collections\obj\x86\Debug\vb_tut10-Collections.xml
+C:\Users\Wingrean\Desktop\VB_Tut\vb_tut10-Collections\vb_tut10-Collections\obj\x86\Debug\vb_tut10-Collections.pdb
